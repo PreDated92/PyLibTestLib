@@ -13,3 +13,9 @@ your_library/
 ├── LICENSE
 └── pyproject.toml    # (optional but modern)
 ```
+
+## Installation
+pip install git+https://github.com/PreDated92/PyLibTestLib
+
+## Uninstall
+pip uninstall PyLibTestLib
