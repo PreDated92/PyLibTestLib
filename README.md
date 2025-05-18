@@ -17,5 +17,11 @@ your_library/
 ## Installation
 pip install git+https://github.com/PreDated92/PyLibTestLib
 
+### From local
+```
+cd your-local-repo
+pip install -e .
+```
+
 ## Uninstall
 pip uninstall PyLibTestLib
